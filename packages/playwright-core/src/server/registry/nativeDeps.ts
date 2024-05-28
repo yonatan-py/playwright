@@ -36,7 +36,7 @@ export const deps: any = {
     ],
     chromium: [
       'fonts-liberation',
-      'libasound2',
+      'libasound2-dev',
       'libatk-bridge2.0-0',
       'libatk1.0-0',
       'libatspi2.0-0',
@@ -153,7 +153,7 @@ export const deps: any = {
       'libflite_cmu_us_rms.so.1': 'libflite1',
       'libflite_cmu_us_slt.so.1': 'libflite1',
       'libx264.so': 'libx264-155',
-      'libasound.so.2': 'libasound2',
+      'libasound.so.2': 'libasound2-dev',
       'libatk-1.0.so.0': 'libatk1.0-0',
       'libatk-bridge-2.0.so.0': 'libatk-bridge2.0-0',
       'libatspi.so.0': 'libatspi2.0-0',
@@ -250,7 +250,7 @@ export const deps: any = {
       'fonts-freefont-ttf',
     ],
     chromium: [
-      'libasound2',
+      'libasound2-dev',
       'libatk-bridge2.0-0',
       'libatk1.0-0',
       'libatspi2.0-0',
@@ -275,7 +275,7 @@ export const deps: any = {
     ],
     firefox: [
       'ffmpeg',
-      'libasound2',
+      'libasound2-dev',
       'libatk1.0-0',
       'libcairo-gobject2',
       'libcairo2',
@@ -362,7 +362,7 @@ export const deps: any = {
     ],
     lib2package: {
       'libsoup-3.0.so.0': 'libsoup-3.0-0',
-      'libasound.so.2': 'libasound2',
+      'libasound.so.2': 'libasound2-dev',
       'libatk-1.0.so.0': 'libatk1.0-0',
       'libatk-bridge-2.0.so.0': 'libatk-bridge2.0-0',
       'libatspi.so.0': 'libatspi2.0-0',
@@ -466,7 +466,7 @@ export const deps: any = {
       'fonts-freefont-ttf',
     ],
     chromium: [
-      'libasound2',
+      'libasound2-dev',
       'libatk-bridge2.0-0',
       'libatk1.0-0',
       'libatspi2.0-0',
@@ -490,7 +490,7 @@ export const deps: any = {
       'libxrandr2'
     ],
     firefox: [
-      'libasound2',
+      'libasound2-dev',
       'libatk1.0-0',
       'libcairo-gobject2',
       'libcairo2',
@@ -576,7 +576,7 @@ export const deps: any = {
       'libevent-2.1-7',
     ],
     lib2package: {
-      'libasound.so.2': 'libasound2',
+      'libasound.so.2': 'libasound2-dev',
       'libatk-1.0.so.0': 'libatk1.0-0',
       'libatk-bridge-2.0.so.0': 'libatk-bridge2.0-0',
       'libatspi.so.0': 'libatspi2.0-0',
@@ -675,7 +675,7 @@ export const deps: any = {
       'fonts-freefont-ttf',
     ],
     chromium: [
-      'libasound2',
+      'libasound2-dev',
       'libatk-bridge2.0-0',
       'libatk1.0-0',
       'libatspi2.0-0',
@@ -698,7 +698,7 @@ export const deps: any = {
       'libxrandr2'
     ],
     firefox: [
-      'libasound2',
+      'libasound2-dev',
       'libatk1.0-0',
       'libcairo-gobject2',
       'libcairo2',
@@ -785,7 +785,7 @@ export const deps: any = {
     ],
     lib2package: {
       'libsoup-3.0.so.0': 'libsoup-3.0-0',
-      'libasound.so.2': 'libasound2',
+      'libasound.so.2': 'libasound2-dev',
       'libatk-1.0.so.0': 'libatk1.0-0',
       'libatk-bridge-2.0.so.0': 'libatk-bridge2.0-0',
       'libatspi.so.0': 'libatspi2.0-0',
